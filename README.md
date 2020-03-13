@@ -1,5 +1,7 @@
-*Contains:*
-Halpern et al. 2017
+**Contains:**
+
+*Halpern et al. 2017 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5321580/*
+
 Table S1 – Background subtracted UMI table.
 Table S2 – Posterior matrix - Posterior probability for each lobule layer.
 Table S3 – Zonation matrix - Average cellular expression levels at each layer in fraction of total cellular mRNA.
